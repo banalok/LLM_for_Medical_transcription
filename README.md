@@ -11,7 +11,7 @@ This project provides tools to:
 It supports both structured data exploration and AI-driven text analysis of medical transcriptions.
 
 ## Project Structure
-
+```
 Medical_Records/
 ├── config/                 # Configuration files
 │   ├── config.py       # Application configuration
@@ -27,3 +27,5 @@ Medical_Records/
 │   └── processor/          # Processing
 │       └── processor.py    # LangChain implementation
 └── run_tests.py            # Entry point
+└── requirements.txt        # Project dependencies
+```
