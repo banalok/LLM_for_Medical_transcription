@@ -29,3 +29,17 @@ Medical_Records/
 └── run.py            # Entry point
 └── requirements.txt        # Project dependencies
 ```
+
+![Data Import Module Output](images/data_import.PNG)
+![Data Access Module Output](images/data_access.PNG)
+![LangChain Implementation Output](images/LangChain.PNG)
+
+Run "run.py" after installation of the required dependencies using 
+```bash
+pip install -r requirements.txt
+```
+**.env** file should be created that looks like:
+```bash
+EHR_DATABASE_URL=sqlite:///path_to_ehr_database.db
+OPENAI_API_KEY=your_api_key
+```
