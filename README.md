@@ -27,4 +27,3 @@ Medical_Records/
 │   └── processor/          # Processing
 │       └── processor.py    # LangChain implementation
 └── run_tests.py            # Entry point
-└── requirements.txt        # Project dependencies
