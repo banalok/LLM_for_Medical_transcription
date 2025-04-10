@@ -26,6 +26,6 @@ Medical_Records/
 │   │   └── data_access.py  # Database access layer
 │   └── processor/          # Processing
 │       └── processor.py    # LangChain implementation
-└── run_tests.py            # Entry point
+└── run.py            # Entry point
 └── requirements.txt        # Project dependencies
 ```
