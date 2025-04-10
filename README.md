@@ -10,6 +10,8 @@ This project provides tools to:
 
 It supports both structured data exploration and AI-driven text analysis of medical transcriptions.
 
+[Dataset](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions?resource=download)
+
 ## Project Structure
 ```
 Medical_Records/
